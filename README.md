@@ -1,4 +1,4 @@
-# E-commerce Website using React and Redux
+[# E-commerce Website using React and Redux
 
 Welcome to the E-commerce Website project! This application is designed to showcase various features of React and Redux for building a modern and responsive e-commerce platform. I have applied CSS from scratch and did not use any CSS library because none was specified. Bootstrap was used for theme inspiration.
 
@@ -18,3 +18,4 @@ Welcome to the E-commerce Website project! This application is designed to showc
 3. Run `npm install`.
 4. Replace `http://192.168.29.93:3000` for CORS origin in `index.js` with 'your IP address' + `:9000`.
 5. Run `node index.js` in the command line.
+](https://github.com/Atuly69/Shop_Project.git)https://github.com/Atuly69/Shop_Project.git
